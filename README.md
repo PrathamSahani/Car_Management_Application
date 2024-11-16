@@ -45,6 +45,12 @@ python manage.py createsuperuser
 
 ![d1](https://github.com/user-attachments/assets/afd97d33-00ff-4164-a934-3cd066076fb9)
 
+### Run the Superuser 
+To run the server run the below command in terminal after run the command to access the website you can visit to http://127.0.0.1:8000/
+```bash
+python manage.py runserver
+```
+
 ## 🚗✨ Car Management System
 
 Welcome to the **Car Management System**! This project allows users to explore, manage, and interact with car information. Below is a detailed walkthrough of the system. 🌟
