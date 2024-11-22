@@ -16,11 +16,13 @@
 
 2. **setup Django**
 
-# Install Django
-pip install django
+ ```bash
+   #  Django is installed
+   pip install django
 
-# Verify the installation
-django-admin --version
+   # Verify the installation
+   django-admin --version
+```
 
 ### 2️⃣ Set Up Your Virtual Environment (Optional)
 To avoid dependency issues, it is recommended to create a virtual environment. Here's how:
