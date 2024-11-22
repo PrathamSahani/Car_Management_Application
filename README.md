@@ -5,6 +5,23 @@
 
 🚗✨ I created a Car Management System with Login/Register, a car list, and a Search option. If no cars are available, it shows "No car available". Registered users can add, edit, or delete cars, while unregistered users can only view descriptions. After login, Create New Car and Logout buttons appear. The form allows adding car details and up to 10 images. Editing and deleting options are available after login. 🚙💻
 
+## Prerequisites
+
+1. **Install Python**  
+   Make sure Python is installed on your system. Download it from the [official Python website](https://www.python.org/downloads/).
+
+   ```bash
+   # Check if Python is installed
+   python --version
+
+2. **setup Django**
+
+# Install Django
+pip install django
+
+# Verify the installation
+django-admin --version
+
 ### 2️⃣ Set Up Your Virtual Environment (Optional)
 To avoid dependency issues, it is recommended to create a virtual environment. Here's how:
 1. Open the extracted folder in **VS Code**.
